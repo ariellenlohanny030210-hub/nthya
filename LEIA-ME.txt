@@ -1,0 +1,11 @@
+MEU PORTFÓLIO - CURRÍCULO
+
+COMO USAR
+1. Extraia este arquivo ZIP.
+2. Abra a pasta meu_portfolio no VS Code.
+3. Abra o arquivo index.html.
+4. Abra index.html no navegador (ou use a extensão Live Server).
+5. Troque os textos de exemplo pelos seus dados.
+6. Use “Imprimir / Salvar em PDF” para salvar uma cópia em PDF.
+
+Observação: o formulário de contato é apenas visual e não envia mensagens.
